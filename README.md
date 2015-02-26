@@ -55,9 +55,10 @@ UIApplication.sharedApplication.delegate;
 * Indent using 4 spaces. Never indent with tabs. Be sure to set this preference in Xcode.
 * Method braces start on a new line
 
+```objc
 - (void)myMethod
 {
-	//code
+	// code
 }
 ```
 
